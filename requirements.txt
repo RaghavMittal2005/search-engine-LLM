@@ -9,7 +9,7 @@ arxiv
 wikipedia
 pypdf
 python-dotenv
-
+ddgs
 langchain_openai
 openai
 langchain_astradb
@@ -20,4 +20,5 @@ ipykernel
 validators==0.28.1
 youtube-transcript-api
 pytube
+
 unstructured
